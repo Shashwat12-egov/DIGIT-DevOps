@@ -17,7 +17,7 @@ db_name: "testdb"
 db_username: "testdemo" 
 
 # Replace with Domain name you want for your web applications
-domain_name: "DevopsTesting.digit.org"
+domain_name: "devopstesting.digit.org"
 
 # Replace with the name you want to give to your S3 bucket which is used to store the terraform state
 terraform_state_bucket_name: "shahswatk-bucket"
